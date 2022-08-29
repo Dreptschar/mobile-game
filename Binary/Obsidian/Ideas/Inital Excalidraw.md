@@ -40,6 +40,20 @@ the battlefield  ^B3Shrm1T
 
 The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 
+[[Shop]] ^HZx2cZkd
+
+In the Shop the player can purchase
+different Booster packs, Skins(?).
+Booster:
+    - Contain 10 cards
+    - With diffrent rarity 
+Skins: 
+    - For units
+    - For lane
+    - for battlefield
+    - Avatar 
+    - Emotes     ^7c6j2Q7B
+
 %%
 # Drawing
 ```json
@@ -328,8 +342,8 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 		},
 		{
 			"type": "text",
-			"version": 190,
-			"versionNonce": 816764922,
+			"version": 193,
+			"versionNonce": 965266534,
 			"isDeleted": false,
 			"id": "16pAQP2j",
 			"fillStyle": "hachure",
@@ -338,7 +352,7 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 329.58688653966817,
+			"x": 328.0484250012065,
 			"y": -683.2444722460243,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -348,7 +362,7 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661796161795,
+			"updated": 1661796519926,
 			"link": "[[Laning Phase]]",
 			"locked": false,
 			"fontSize": 36,
@@ -7235,8 +7249,8 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 		},
 		{
 			"type": "freedraw",
-			"version": 373,
-			"versionNonce": 2058341158,
+			"version": 375,
+			"versionNonce": 875709946,
 			"isDeleted": false,
 			"id": "m2S_XCkuMDmJGUwO6I5IG",
 			"fillStyle": "hachure",
@@ -7245,8 +7259,8 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 600.8361901256621,
-			"y": -296.39068439301076,
+			"x": 599.1695234589954,
+			"y": -294.72401772634413,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 227.05882352941148,
@@ -7255,7 +7269,7 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661796161795,
+			"updated": 1661796675570,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8710,8 +8724,8 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 		},
 		{
 			"type": "rectangle",
-			"version": 504,
-			"versionNonce": 560095802,
+			"version": 508,
+			"versionNonce": 1206641254,
 			"isDeleted": false,
 			"id": "13N5VlXbTrI1AjUKM9vW2",
 			"fillStyle": "hachure",
@@ -8720,8 +8734,8 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 742.8304940243781,
-			"y": 241.8865734798328,
+			"x": 743.0869042807883,
+			"y": 243.42503501829424,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fa5252",
 			"width": 98.08333333333326,
@@ -8730,7 +8744,7 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661796161795,
+			"updated": 1661796705821,
 			"link": null,
 			"locked": false
 		},
@@ -8762,8 +8776,8 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 		},
 		{
 			"type": "rectangle",
-			"version": 565,
-			"versionNonce": 1108216570,
+			"version": 594,
+			"versionNonce": 2137080890,
 			"isDeleted": false,
 			"id": "3J3tTPhi1qwvFoONzFLLd",
 			"fillStyle": "hachure",
@@ -8772,8 +8786,8 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 352.1638273577118,
-			"y": 243.8865734798328,
+			"x": 350.6253658192499,
+			"y": 242.34811194137114,
 			"strokeColor": "#000000",
 			"backgroundColor": "#40c057",
 			"width": 98.08333333333326,
@@ -8782,14 +8796,14 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661796161795,
+			"updated": 1661796555712,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 551,
-			"versionNonce": 904378790,
+			"version": 553,
+			"versionNonce": 1931320506,
 			"isDeleted": false,
 			"id": "o8m3qRnRdHy6xhCWi9058",
 			"fillStyle": "hachure",
@@ -8799,7 +8813,7 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 			"opacity": 100,
 			"angle": 0,
 			"x": 605.4971606910453,
-			"y": 242.55324014649943,
+			"y": 242.42503501829412,
 			"strokeColor": "#000000",
 			"backgroundColor": "#4c6ef5",
 			"width": 98.08333333333326,
@@ -8808,7 +8822,7 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661796161795,
+			"updated": 1661796703495,
 			"link": null,
 			"locked": false
 		},
@@ -8874,53 +8888,53 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 			"originalText": "📍Phase 3\n[[Battle Phase]]"
 		},
 		{
-			"id": "8b-rMhNfau89XeIhgvSCG",
 			"type": "diamond",
-			"x": 1309.7614216708648,
-			"y": -326.86088361243446,
-			"width": 484.00000000000006,
-			"height": 478.66666666666663,
-			"angle": 0.40807395533710533,
-			"strokeColor": "#000000",
-			"backgroundColor": "#40c057",
+			"version": 722,
+			"versionNonce": 814181478,
+			"isDeleted": false,
+			"id": "8b-rMhNfau89XeIhgvSCG",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0.40807395533710533,
+			"x": 1309.7614216708648,
+			"y": -326.86088361243446,
+			"strokeColor": "#000000",
+			"backgroundColor": "#40c057",
+			"width": 484.00000000000006,
+			"height": 478.66666666666663,
+			"seed": 1304603258,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"seed": 1304603258,
-			"version": 722,
-			"versionNonce": 814181478,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1661796178188,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "a7fDrSe0XU4tMrUG8acmp",
 			"type": "freedraw",
-			"x": 1541.9967157885126,
-			"y": 97.53127325031005,
-			"width": 162.3529411764705,
-			"height": 337.6470588235295,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#40c057",
+			"version": 268,
+			"versionNonce": 115590758,
+			"isDeleted": false,
+			"id": "a7fDrSe0XU4tMrUG8acmp",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1541.9967157885126,
+			"y": 97.53127325031005,
+			"strokeColor": "#000000",
+			"backgroundColor": "#40c057",
+			"width": 162.3529411764705,
+			"height": 337.6470588235295,
+			"seed": 852426362,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 852426362,
-			"version": 268,
-			"versionNonce": 115590758,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1661796184629,
 			"link": null,
 			"locked": false,
@@ -9994,35 +10008,32 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 					337.6470588235295
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-104.70588235294099,
-				337.6470588235295
-			]
+			"pressures": []
 		},
 		{
-			"id": "BXePhn_AhB_Hp6tRodFtB",
 			"type": "freedraw",
-			"x": 1630.2320099061599,
-			"y": 69.29597913266298,
-			"width": 123.52941176470586,
-			"height": 364.7058823529412,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#40c057",
+			"version": 244,
+			"versionNonce": 362760934,
+			"isDeleted": false,
+			"id": "BXePhn_AhB_Hp6tRodFtB",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1630.2320099061599,
+			"y": 69.29597913266298,
+			"strokeColor": "#000000",
+			"backgroundColor": "#40c057",
+			"width": 123.52941176470586,
+			"height": 364.7058823529412,
+			"seed": 518961914,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 518961914,
-			"version": 244,
-			"versionNonce": 362760934,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1661796186878,
 			"link": null,
 			"locked": false,
@@ -11000,35 +11011,32 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 					363.52941176470586
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-85.88235294117658,
-				363.52941176470586
-			]
+			"pressures": []
 		},
 		{
-			"id": "YOn0k7rDHhJITjZpzYOgw",
 			"type": "freedraw",
-			"x": 1447.8790687296892,
-			"y": -229.52755027910166,
-			"width": 202.35294117647072,
-			"height": 132.9411764705883,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#40c057",
+			"version": 166,
+			"versionNonce": 821227686,
+			"isDeleted": false,
+			"id": "YOn0k7rDHhJITjZpzYOgw",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1447.8790687296892,
+			"y": -229.52755027910166,
+			"strokeColor": "#000000",
+			"backgroundColor": "#40c057",
+			"width": 202.35294117647072,
+			"height": 132.9411764705883,
+			"seed": 251379322,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 251379322,
-			"version": 166,
-			"versionNonce": 821227686,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1661796188907,
 			"link": null,
 			"locked": false,
@@ -11694,35 +11702,32 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 					-132.9411764705883
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-202.35294117647072,
-				-132.9411764705883
-			]
+			"pressures": []
 		},
 		{
-			"id": "_5-60zQ8cwHxayTB-cZfA",
 			"type": "freedraw",
-			"x": 1249.0555393179243,
-			"y": -421.29225616145465,
-			"width": 264.70588235294144,
-			"height": 171.76470588235293,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#40c057",
+			"version": 159,
+			"versionNonce": 993255418,
+			"isDeleted": false,
+			"id": "_5-60zQ8cwHxayTB-cZfA",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1249.0555393179243,
+			"y": -421.29225616145465,
+			"strokeColor": "#000000",
+			"backgroundColor": "#40c057",
+			"width": 264.70588235294144,
+			"height": 171.76470588235293,
+			"seed": 1080972474,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1080972474,
-			"version": 159,
-			"versionNonce": 993255418,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1661796190769,
 			"link": null,
 			"locked": false,
@@ -12360,70 +12365,67 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 					164.70588235294116
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				264.70588235294144,
-				164.70588235294116
-			]
+			"pressures": []
 		},
 		{
-			"id": "B3Shrm1T",
 			"type": "text",
-			"x": 1267.3459547848106,
-			"y": 467.30630867240563,
-			"width": 662,
-			"height": 180,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#40c057",
+			"version": 212,
+			"versionNonce": 397022182,
+			"isDeleted": false,
+			"id": "B3Shrm1T",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1267.3459547848106,
+			"y": 467.30630867240563,
+			"strokeColor": "#000000",
+			"backgroundColor": "#40c057",
+			"width": 662,
+			"height": 180,
+			"seed": 1201638906,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"seed": 1201638906,
-			"version": 212,
-			"versionNonce": 397022182,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1661796256226,
 			"link": null,
 			"locked": false,
-			"text": "The Units that survived lanign phase\nFight against a other players units.\nCards can be triggered to controll \nthe battlefield ",
-			"rawText": "The Units that survived lanign phase\nFight against a other players units.\nCards can be triggered to controll \nthe battlefield ",
 			"fontSize": 36,
 			"fontFamily": 1,
+			"text": "The Units that survived lanign phase\nFight against a other players units.\nCards can be triggered to controll \nthe battlefield ",
+			"rawText": "The Units that survived lanign phase\nFight against a other players units.\nCards can be triggered to controll \nthe battlefield ",
+			"baseline": 167,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 167,
 			"containerId": null,
 			"originalText": "The Units that survived lanign phase\nFight against a other players units.\nCards can be triggered to controll \nthe battlefield "
 		},
 		{
-			"id": "PS5IjsdQI2zEKMbl2AV-P",
 			"type": "freedraw",
-			"x": 2106.4512938901507,
-			"y": -20.58979522369873,
-			"width": 3408.8888888888887,
-			"height": 1642.2222222222222,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#40c057",
+			"version": 342,
+			"versionNonce": 1148151334,
+			"isDeleted": false,
+			"id": "PS5IjsdQI2zEKMbl2AV-P",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2106.4512938901507,
+			"y": -20.58979522369873,
+			"strokeColor": "#000000",
+			"backgroundColor": "#40c057",
+			"width": 3408.8888888888887,
+			"height": 1642.2222222222222,
+			"seed": 1264742138,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1264742138,
-			"version": 342,
-			"versionNonce": 1148151334,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1661796336009,
 			"link": null,
 			"locked": false,
@@ -13793,35 +13795,32 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 					333.33333333333326
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-2904.4444444444443,
-				333.33333333333326
-			]
+			"pressures": []
 		},
 		{
-			"id": "omi7DKEAdjKTfVkJz6LiM",
 			"type": "freedraw",
-			"x": -857.9931505542935,
-			"y": 272.7435381096345,
-			"width": 75.55555555555554,
-			"height": 93.33333333333326,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#40c057",
+			"version": 44,
+			"versionNonce": 1917257126,
+			"isDeleted": false,
+			"id": "omi7DKEAdjKTfVkJz6LiM",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -857.9931505542935,
+			"y": 272.7435381096345,
+			"strokeColor": "#000000",
+			"backgroundColor": "#40c057",
+			"width": 75.55555555555554,
+			"height": 93.33333333333326,
+			"seed": 155055930,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 155055930,
-			"version": 44,
-			"versionNonce": 1917257126,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1661796336539,
 			"link": null,
 			"locked": false,
@@ -13999,35 +13998,32 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 					73.33333333333326
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				75.55555555555554,
-				73.33333333333326
-			]
+			"pressures": []
 		},
 		{
-			"id": "apZB8hI79JJ0Cp4nHhg-G",
 			"type": "freedraw",
-			"x": -822.437594998738,
-			"y": 294.9657603318567,
-			"width": 77.77777777777783,
-			"height": 106.66666666666652,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#40c057",
+			"version": 52,
+			"versionNonce": 1481327142,
+			"isDeleted": false,
+			"id": "apZB8hI79JJ0Cp4nHhg-G",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -822.437594998738,
+			"y": 294.9657603318567,
+			"strokeColor": "#000000",
+			"backgroundColor": "#40c057",
+			"width": 77.77777777777783,
+			"height": 106.66666666666652,
+			"seed": 2110918586,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 2110918586,
-			"version": 52,
-			"versionNonce": 1481327142,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1661796337094,
 			"link": null,
 			"locked": false,
@@ -14237,1058 +14233,251 @@ The 3 phases loop for 3(?) Time till just one player survives ^9ZZ4JFQp
 					80
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				37.77777777777783,
-				80
-			]
+			"pressures": []
 		},
 		{
-			"id": "9ZZ4JFQp",
 			"type": "text",
-			"x": 375.8596632985193,
-			"y": 1654.0018353679313,
-			"width": 1095,
-			"height": 45,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#40c057",
+			"version": 77,
+			"versionNonce": 695418810,
+			"isDeleted": false,
+			"id": "9ZZ4JFQp",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 375.8596632985193,
+			"y": 1654.0018353679313,
+			"strokeColor": "#000000",
+			"backgroundColor": "#40c057",
+			"width": 1095,
+			"height": 45,
+			"seed": 379444026,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"seed": 379444026,
-			"version": 77,
-			"versionNonce": 695418810,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1661796363403,
 			"link": null,
 			"locked": false,
-			"text": "The 3 phases loop for 3(?) Time till just one player survives",
-			"rawText": "The 3 phases loop for 3(?) Time till just one player survives",
 			"fontSize": 36,
 			"fontFamily": 1,
+			"text": "The 3 phases loop for 3(?) Time till just one player survives",
+			"rawText": "The 3 phases loop for 3(?) Time till just one player survives",
+			"baseline": 32,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 32,
 			"containerId": null,
 			"originalText": "The 3 phases loop for 3(?) Time till just one player survives"
 		},
 		{
 			"type": "rectangle",
-			"version": 405,
-			"versionNonce": 1229928314,
-			"isDeleted": true,
-			"id": "Sq1OHpDx7j1aOG6XTzlC_",
+			"version": 1004,
+			"versionNonce": 381823802,
+			"isDeleted": false,
+			"id": "efQgHMmZEYLEi6G5XP7hi",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1283.2321895510754,
-			"y": -459.3048045865463,
+			"x": -2443.51696007811,
+			"y": -559.2641755819025,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 587.5555555555555,
+			"height": 1005.0000000000001,
+			"seed": 505066982,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1661797973305,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 11,
+			"versionNonce": 1487317286,
+			"isDeleted": false,
+			"id": "HZx2cZkd",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -2449.072515633665,
+			"y": -653.430842248569,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 199,
+			"height": 52,
+			"seed": 1530773050,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1661797986808,
+			"link": "[[Shop]]",
+			"locked": false,
+			"fontSize": 36,
+			"fontFamily": 1,
+			"text": "📍[[Shop]]",
+			"rawText": "[[Shop]]",
+			"baseline": 39,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "📍[[Shop]]"
+		},
+		{
+			"type": "rectangle",
+			"version": 338,
+			"versionNonce": 2052013882,
+			"isDeleted": false,
+			"id": "CGtDfJNNi7fOsD4xGdkJ9",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -2407.463388649535,
+			"y": -513.4963184390465,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 148.75,
 			"height": 246.25,
-			"seed": 274746470,
+			"seed": 1393111782,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661796163302,
+			"updated": 1661798006987,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 478,
-			"versionNonce": 536712486,
-			"isDeleted": true,
-			"id": "hWHk0zjXVZ9Q_yBESsgRt",
+			"version": 433,
+			"versionNonce": 88071930,
+			"isDeleted": false,
+			"id": "DIUr60kORCye3iVRpgAAF",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1468.8571895510754,
-			"y": -458.6798045865463,
+			"x": -2202.463388649535,
+			"y": -513.4963184390465,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 148.75,
 			"height": 246.25,
-			"seed": 1575326970,
+			"seed": 83786490,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661796163302,
+			"updated": 1661798021885,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 646,
-			"versionNonce": 405682234,
-			"isDeleted": true,
-			"id": "buL8wiwqR_dtSXgT4cLno",
+			"version": 510,
+			"versionNonce": 756668474,
+			"isDeleted": false,
+			"id": "3WgiTtaTmsM-9EoUCthrK",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1651.3571895510754,
-			"y": -454.9298045865463,
+			"x": -2340.463388649535,
+			"y": -203.4963184390465,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 148.75,
 			"height": 246.25,
-			"seed": 212193190,
+			"seed": 1449993638,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661796163302,
+			"updated": 1661798024509,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 489,
-			"versionNonce": 1931214950,
-			"isDeleted": true,
-			"id": "n_u189Vp2Ju_7rAoV0Y7s",
+			"version": 423,
+			"versionNonce": 160437286,
+			"isDeleted": false,
+			"id": "bjFMYiv2ZHoUcYOdS72m2",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1287.2946895510754,
-			"y": -178.3673045865462,
+			"x": -2109.463388649535,
+			"y": -184.4963184390465,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 148.75,
 			"height": 246.25,
-			"seed": 1427957178,
+			"seed": 742023270,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661796163302,
+			"updated": 1661798025935,
 			"link": null,
 			"locked": false
 		},
 		{
-			"type": "rectangle",
-			"version": 562,
-			"versionNonce": 1559175418,
-			"isDeleted": true,
-			"id": "-3nK0cUSvnTSoYBB5t-kd",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
+			"id": "7c6j2Q7B",
+			"type": "text",
+			"x": -2432.55664261779,
+			"y": 479.4104275926992,
+			"width": 652,
+			"height": 495,
 			"angle": 0,
-			"x": 1472.9196895510754,
-			"y": -177.7423045865462,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 148.75,
-			"height": 246.25,
-			"seed": 1138289382,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElements": [],
-			"updated": 1661796163302,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "rectangle",
-			"version": 563,
-			"versionNonce": 97190822,
-			"isDeleted": true,
-			"id": "M5yuA7BDtXVWNgOMLwHAt",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1655.4196895510754,
-			"y": -173.9923045865462,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 148.75,
-			"height": 246.25,
-			"seed": 850140794,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElements": [],
-			"updated": 1661796163302,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "aHZ1Wd8h-KZsG204cSBCk",
-			"type": "freedraw",
-			"x": 1686.702598141454,
-			"y": -205.9981385143958,
-			"width": 139.99999999999977,
-			"height": 40,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#40c057",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 712357030,
-			"version": 111,
-			"versionNonce": 496412262,
-			"isDeleted": true,
+			"strokeSharpness": "sharp",
+			"seed": 604413798,
+			"version": 331,
+			"versionNonce": 967428006,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661796195761,
+			"updated": 1661798140686,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.1764705882351336,
-					-3.5294117647058556
-				],
-				[
-					1.1764705882351345,
-					-4.705882352941217
-				],
-				[
-					2.3529411764704946,
-					-5.882352941176464
-				],
-				[
-					4.705882352940989,
-					-7.058823529411825
-				],
-				[
-					4.705882352940989,
-					-8.235294117647072
-				],
-				[
-					7.058823529411711,
-					-10.58823529411768
-				],
-				[
-					8.235294117646845,
-					-11.764705882352928
-				],
-				[
-					9.411764705882206,
-					-11.764705882352928
-				],
-				[
-					10.588235294117567,
-					-14.117647058823536
-				],
-				[
-					11.7647058823527,
-					-14.117647058823536
-				],
-				[
-					12.941176470588061,
-					-16.470588235294144
-				],
-				[
-					15.294117647058556,
-					-16.470588235294144
-				],
-				[
-					16.470588235293917,
-					-17.64705882352939
-				],
-				[
-					18.82352941176464,
-					-18.823529411764753
-				],
-				[
-					19.999999999999773,
-					-20
-				],
-				[
-					21.176470588235134,
-					-20
-				],
-				[
-					22.352941176470495,
-					-21.176470588235247
-				],
-				[
-					24.70588235294099,
-					-22.35294117647061
-				],
-				[
-					25.88235294117635,
-					-23.529411764705856
-				],
-				[
-					27.05882352941171,
-					-23.529411764705856
-				],
-				[
-					28.235294117646845,
-					-24.70588235294116
-				],
-				[
-					30.588235294117567,
-					-25.882352941176464
-				],
-				[
-					31.7647058823527,
-					-25.882352941176464
-				],
-				[
-					34.11764705882342,
-					-28.235294117647072
-				],
-				[
-					35.294117647058556,
-					-28.235294117647072
-				],
-				[
-					36.47058823529392,
-					-29.411764705882376
-				],
-				[
-					37.64705882352928,
-					-30.58823529411768
-				],
-				[
-					37.64705882352928,
-					-31.764705882352928
-				],
-				[
-					39.99999999999977,
-					-31.764705882352928
-				],
-				[
-					41.176470588235134,
-					-32.94117647058823
-				],
-				[
-					42.352941176470495,
-					-34.117647058823536
-				],
-				[
-					43.52941176470563,
-					-34.117647058823536
-				],
-				[
-					44.70588235294099,
-					-35.29411764705884
-				],
-				[
-					45.88235294117635,
-					-35.29411764705884
-				],
-				[
-					47.05882352941171,
-					-36.470588235294144
-				],
-				[
-					48.235294117646845,
-					-36.470588235294144
-				],
-				[
-					49.411764705882206,
-					-37.64705882352945
-				],
-				[
-					50.58823529411757,
-					-37.64705882352945
-				],
-				[
-					51.7647058823527,
-					-37.64705882352945
-				],
-				[
-					54.11764705882342,
-					-37.64705882352945
-				],
-				[
-					55.294117647058556,
-					-37.64705882352945
-				],
-				[
-					56.47058823529392,
-					-38.823529411764696
-				],
-				[
-					57.64705882352928,
-					-38.823529411764696
-				],
-				[
-					59.99999999999977,
-					-38.823529411764696
-				],
-				[
-					61.176470588235134,
-					-40
-				],
-				[
-					62.352941176470495,
-					-40
-				],
-				[
-					63.52941176470563,
-					-40
-				],
-				[
-					65.88235294117635,
-					-40
-				],
-				[
-					67.05882352941171,
-					-40
-				],
-				[
-					68.23529411764684,
-					-40
-				],
-				[
-					70.58823529411757,
-					-40
-				],
-				[
-					71.7647058823527,
-					-40
-				],
-				[
-					74.11764705882342,
-					-40
-				],
-				[
-					75.29411764705856,
-					-40
-				],
-				[
-					76.47058823529392,
-					-40
-				],
-				[
-					77.64705882352928,
-					-40
-				],
-				[
-					78.82352941176464,
-					-40
-				],
-				[
-					79.99999999999977,
-					-40
-				],
-				[
-					81.17647058823513,
-					-40
-				],
-				[
-					83.52941176470563,
-					-40
-				],
-				[
-					85.88235294117635,
-					-40
-				],
-				[
-					87.05882352941171,
-					-40
-				],
-				[
-					88.23529411764684,
-					-40
-				],
-				[
-					89.4117647058822,
-					-40
-				],
-				[
-					90.58823529411757,
-					-40
-				],
-				[
-					92.94117647058806,
-					-40
-				],
-				[
-					94.11764705882342,
-					-38.823529411764696
-				],
-				[
-					95.29411764705856,
-					-38.823529411764696
-				],
-				[
-					96.47058823529392,
-					-38.823529411764696
-				],
-				[
-					97.64705882352928,
-					-38.823529411764696
-				],
-				[
-					98.82352941176464,
-					-38.823529411764696
-				],
-				[
-					101.17647058823513,
-					-37.64705882352945
-				],
-				[
-					103.52941176470563,
-					-37.64705882352945
-				],
-				[
-					104.70588235294099,
-					-37.64705882352945
-				],
-				[
-					105.88235294117635,
-					-36.470588235294144
-				],
-				[
-					107.05882352941171,
-					-36.470588235294144
-				],
-				[
-					108.23529411764684,
-					-36.470588235294144
-				],
-				[
-					109.4117647058822,
-					-36.470588235294144
-				],
-				[
-					110.58823529411757,
-					-36.470588235294144
-				],
-				[
-					110.58823529411757,
-					-35.29411764705884
-				],
-				[
-					111.7647058823527,
-					-35.29411764705884
-				],
-				[
-					112.94117647058806,
-					-35.29411764705884
-				],
-				[
-					114.11764705882342,
-					-35.29411764705884
-				],
-				[
-					115.29411764705856,
-					-35.29411764705884
-				],
-				[
-					116.47058823529392,
-					-35.29411764705884
-				],
-				[
-					117.64705882352928,
-					-35.29411764705884
-				],
-				[
-					118.82352941176464,
-					-35.29411764705884
-				],
-				[
-					119.99999999999977,
-					-35.29411764705884
-				],
-				[
-					119.99999999999977,
-					-34.117647058823536
-				],
-				[
-					121.17647058823513,
-					-34.117647058823536
-				],
-				[
-					122.3529411764705,
-					-34.117647058823536
-				],
-				[
-					123.52941176470563,
-					-34.117647058823536
-				],
-				[
-					124.70588235294099,
-					-34.117647058823536
-				],
-				[
-					125.88235294117635,
-					-34.117647058823536
-				],
-				[
-					127.05882352941171,
-					-34.117647058823536
-				],
-				[
-					128.23529411764684,
-					-34.117647058823536
-				],
-				[
-					129.4117647058822,
-					-34.117647058823536
-				],
-				[
-					130.58823529411757,
-					-34.117647058823536
-				],
-				[
-					131.7647058823527,
-					-34.117647058823536
-				],
-				[
-					132.94117647058806,
-					-34.117647058823536
-				],
-				[
-					134.11764705882342,
-					-34.117647058823536
-				],
-				[
-					135.29411764705856,
-					-34.117647058823536
-				],
-				[
-					136.47058823529392,
-					-34.117647058823536
-				],
-				[
-					137.64705882352928,
-					-35.29411764705884
-				],
-				[
-					138.82352941176464,
-					-35.29411764705884
-				],
-				[
-					138.82352941176464,
-					-36.470588235294144
-				],
-				[
-					139.99999999999977,
-					-36.470588235294144
-				],
-				[
-					139.99999999999977,
-					-36.470588235294144
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				139.99999999999977,
-				-36.470588235294144
-			]
-		},
-		{
-			"id": "AVN0pBl-Uy8uf8bWoPEvN",
-			"type": "freedraw",
-			"x": 1732.5849510826304,
-			"y": -95.40990322027812,
-			"width": 98.82352941176464,
-			"height": 72.94117647058829,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#40c057",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 106489702,
-			"version": 92,
-			"versionNonce": 560150566,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661796196171,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.220446049250313e-16,
-					-1.1764705882352473
-				],
-				[
-					1.176470588235361,
-					-1.1764705882352473
-				],
-				[
-					1.176470588235361,
-					-2.3529411764706083
-				],
-				[
-					2.352941176470495,
-					-2.3529411764706083
-				],
-				[
-					2.352941176470495,
-					-4.705882352941217
-				],
-				[
-					3.5294117647058556,
-					-5.882352941176464
-				],
-				[
-					4.705882352941217,
-					-8.235294117647072
-				],
-				[
-					4.705882352941217,
-					-9.41176470588232
-				],
-				[
-					4.705882352941217,
-					-10.58823529411768
-				],
-				[
-					5.88235294117635,
-					-11.764705882352928
-				],
-				[
-					5.88235294117635,
-					-12.941176470588289
-				],
-				[
-					8.235294117647072,
-					-15.294117647058783
-				],
-				[
-					8.235294117647072,
-					-16.470588235294144
-				],
-				[
-					10.588235294117567,
-					-18.823529411764753
-				],
-				[
-					11.764705882352928,
-					-20
-				],
-				[
-					11.764705882352928,
-					-21.176470588235247
-				],
-				[
-					12.941176470588289,
-					-22.35294117647061
-				],
-				[
-					14.117647058823422,
-					-24.705882352941217
-				],
-				[
-					16.470588235294144,
-					-25.882352941176464
-				],
-				[
-					17.647058823529278,
-					-28.235294117647072
-				],
-				[
-					18.82352941176464,
-					-29.41176470588232
-				],
-				[
-					20,
-					-30.58823529411768
-				],
-				[
-					22.352941176470495,
-					-31.764705882352928
-				],
-				[
-					23.529411764705856,
-					-34.117647058823536
-				],
-				[
-					24.705882352941217,
-					-35.29411764705878
-				],
-				[
-					27.05882352941171,
-					-37.64705882352939
-				],
-				[
-					28.235294117647072,
-					-38.82352941176475
-				],
-				[
-					30.588235294117567,
-					-40
-				],
-				[
-					31.764705882352928,
-					-42.35294117647061
-				],
-				[
-					32.94117647058829,
-					-44.70588235294122
-				],
-				[
-					35.29411764705878,
-					-45.882352941176464
-				],
-				[
-					36.470588235294144,
-					-45.882352941176464
-				],
-				[
-					37.64705882352928,
-					-48.23529411764707
-				],
-				[
-					40,
-					-49.41176470588232
-				],
-				[
-					41.17647058823536,
-					-50.58823529411768
-				],
-				[
-					42.352941176470495,
-					-51.76470588235293
-				],
-				[
-					43.529411764705856,
-					-52.94117647058829
-				],
-				[
-					45.88235294117635,
-					-54.117647058823536
-				],
-				[
-					48.23529411764707,
-					-54.117647058823536
-				],
-				[
-					49.411764705882206,
-					-55.29411764705878
-				],
-				[
-					50.58823529411757,
-					-56.470588235294144
-				],
-				[
-					51.76470588235293,
-					-57.64705882352939
-				],
-				[
-					54.11764705882342,
-					-57.64705882352939
-				],
-				[
-					55.29411764705878,
-					-58.82352941176475
-				],
-				[
-					57.64705882352928,
-					-60
-				],
-				[
-					58.82352941176464,
-					-60
-				],
-				[
-					60,
-					-60
-				],
-				[
-					61.17647058823536,
-					-60
-				],
-				[
-					61.17647058823536,
-					-61.17647058823525
-				],
-				[
-					62.352941176470495,
-					-61.17647058823525
-				],
-				[
-					63.529411764705856,
-					-62.35294117647061
-				],
-				[
-					65.88235294117635,
-					-62.35294117647061
-				],
-				[
-					67.05882352941171,
-					-62.35294117647061
-				],
-				[
-					69.4117647058822,
-					-62.35294117647061
-				],
-				[
-					70.58823529411757,
-					-63.529411764705856
-				],
-				[
-					71.76470588235293,
-					-63.529411764705856
-				],
-				[
-					72.94117647058829,
-					-63.529411764705856
-				],
-				[
-					74.11764705882342,
-					-63.529411764705856
-				],
-				[
-					75.29411764705878,
-					-63.529411764705856
-				],
-				[
-					76.47058823529414,
-					-63.529411764705856
-				],
-				[
-					77.64705882352928,
-					-63.529411764705856
-				],
-				[
-					78.82352941176464,
-					-63.529411764705856
-				],
-				[
-					78.82352941176464,
-					-64.70588235294122
-				],
-				[
-					81.17647058823536,
-					-64.70588235294122
-				],
-				[
-					82.3529411764705,
-					-64.70588235294122
-				],
-				[
-					83.52941176470586,
-					-65.88235294117646
-				],
-				[
-					84.70588235294122,
-					-65.88235294117646
-				],
-				[
-					85.88235294117635,
-					-65.88235294117646
-				],
-				[
-					87.05882352941171,
-					-65.88235294117646
-				],
-				[
-					87.05882352941171,
-					-67.05882352941171
-				],
-				[
-					88.23529411764707,
-					-67.05882352941171
-				],
-				[
-					89.4117647058822,
-					-67.05882352941171
-				],
-				[
-					89.4117647058822,
-					-68.23529411764707
-				],
-				[
-					90.58823529411757,
-					-68.23529411764707
-				],
-				[
-					91.76470588235293,
-					-68.23529411764707
-				],
-				[
-					92.94117647058829,
-					-68.23529411764707
-				],
-				[
-					92.94117647058829,
-					-69.41176470588232
-				],
-				[
-					94.11764705882342,
-					-69.41176470588232
-				],
-				[
-					95.29411764705878,
-					-69.41176470588232
-				],
-				[
-					95.29411764705878,
-					-70.58823529411768
-				],
-				[
-					96.47058823529414,
-					-70.58823529411768
-				],
-				[
-					97.64705882352928,
-					-71.76470588235293
-				],
-				[
-					98.82352941176464,
-					-71.76470588235293
-				],
-				[
-					98.82352941176464,
-					-72.94117647058829
-				],
-				[
-					98.82352941176464,
-					-72.94117647058829
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				98.82352941176464,
-				-72.94117647058829
-			]
+			"text": "In the Shop the player can purchase\ndifferent Booster packs, Skins(?).\nBooster:\n    - Contain 10 cards\n    - With diffrent rarity \nSkins: \n    - For units\n    - For lane\n    - for battlefield\n    - Avatar \n    - Emotes    ",
+			"rawText": "In the Shop the player can purchase\ndifferent Booster packs, Skins(?).\nBooster:\n    - Contain 10 cards\n    - With diffrent rarity \nSkins: \n    - For units\n    - For lane\n    - for battlefield\n    - Avatar \n    - Emotes    ",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 482,
+			"containerId": null,
+			"originalText": "In the Shop the player can purchase\ndifferent Booster packs, Skins(?).\nBooster:\n    - Contain 10 cards\n    - With diffrent rarity \nSkins: \n    - For units\n    - For lane\n    - for battlefield\n    - Avatar \n    - Emotes    "
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#000000",
-		"currentItemBackgroundColor": "#40c057",
+		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
 		"currentItemStrokeStyle": "solid",
