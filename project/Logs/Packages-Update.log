@@ -44,3 +44,19 @@ The following packages were updated:
   com.unity.test-framework from version 1.1.30 to 1.1.31
   com.unity.timeline from version 1.6.3 to 1.6.4
   com.unity.visualscripting from version 1.7.6 to 1.7.8
+
+=== Sat Sep 10 01:48:57 2022
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 1.17.1 to 1.17.2
+
+=== Sat Sep 10 01:50:25 2022
+
+Packages were changed.
+Update Mode: resetToDefaultDependencies
+
+The following packages were removed:
+  com.unity.feature.mobile@1.0.0
