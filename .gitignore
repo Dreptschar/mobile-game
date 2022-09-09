@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+project/Temp/FSTimeGet-*
+project/Temp/PropertyDatabase_*
+project/Temp/UnityLockfile
