@@ -362,8 +362,11 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/MeshGenerator.cs"
-"Assets/Scenes/Scripts/Game/MapGenerator.cs"
+"Assets/Scripts/MapDisplay.cs"
+"Assets/Scripts/MapGenerator.cs"
+"Assets/Scripts/MapGeneratorCustomEditor.cs"
+"Assets/Scripts/MeshGenerator.cs"
+"Assets/Scripts/Noise.cs"
 -langversion:9.0
 
 /deterministic
